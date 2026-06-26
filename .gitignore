@@ -1,0 +1,23 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# JARs descargados manualmente (Maven los baja con mvn test)
+lib/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
